@@ -1,0 +1,23 @@
+{
+  "name": "currency-converter-latest",
+  "version": "1.0.0",
+  "description": "A versatile Nodejs package for seamless currency converter",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KaranGulve4342/currency-converter-latest.git"
+  },
+  "author": "Karan Gulve",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/KaranGulve4342/currency-converter-latest/issues"
+  },
+  "homepage": "https://github.com/KaranGulve4342/currency-converter-latest#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1"
+  }
+}
